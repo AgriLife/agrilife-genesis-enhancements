@@ -1,0 +1,231 @@
+
+/* Outreach Pro Texas A&M Maroon
+--------------------------------------------- */
+
+.outreach-pro-maroon .content .entry-title a:hover,
+.outreach-pro-maroon .content #genesis-responsive-slider a,
+.outreach-pro-maroon .content #genesis-responsive-slider h2 a:hover,
+.outreach-pro-maroon .nav-secondary .genesis-nav-menu .current-menu-item > a,
+.outreach-pro-maroon .nav-secondary .genesis-nav-menu .sub-menu a:hover,
+.outreach-pro-maroon .nav-secondary .genesis-nav-menu a:hover,
+.outreach-pro-maroon .nav-secondary .genesis-nav-menu li:hover > a,
+.outreach-pro-maroon .widget-title,
+.outreach-pro-maroon a,
+.outreach-pro-maroon .sidebar li a {
+  color: #900000;
+}
+
+.outreach-pro-maroon a:hover,
+.outreach-pro-maroon .sidebar li a:hover {
+  color: #7f0000;
+}
+
+.outreach-pro-maroon .content #genesis-responsive-slider a:hover,
+.outreach-pro-maroon .content #genesis-responsive-slider h2 a,
+.outreach-pro-maroon .footer-widgets .widget-title,
+.outreach-pro-maroon .genesis-nav-menu a,
+.outreach-pro-maroon .nav-secondary .genesis-nav-menu .sub-menu a,
+.outreach-pro-maroon .nav-secondary .genesis-nav-menu .sub-menu,
+.outreach-pro-maroon .site-footer a:hover,
+.outreach-pro-maroon .site-header .widget-title,
+.outreach-pro-maroon .site-title a,
+.outreach-pro-maroon .site-title a:hover {
+  color: #fff;
+}
+
+.outreach-pro-maroon .site-footer a {
+  color: #666;
+}
+
+.outreach-pro-maroon .genesis-nav-menu .sub-menu a,
+.outreach-pro-maroon .home-bottom .widget-title {
+  color: #333;
+}
+
+.outreach-pro-maroon .genesis-nav-menu a:hover,
+.outreach-pro-maroon .genesis-nav-menu .current-menu-item > a,
+.outreach-pro-maroon .genesis-nav-menu .sub-menu .current-menu-item > a:hover {
+  color: #000;
+}
+
+.outreach-pro-maroon .archive-pagination .active a,
+.outreach-pro-maroon .archive-pagination li a:hover,
+.outreach-pro-maroon .button,
+.outreach-pro-maroon .nav-primary,
+.outreach-pro-maroon button,
+.outreach-pro-maroon input[type="button"],
+.outreach-pro-maroon input[type="reset"],
+.outreach-pro-maroon input[type="submit"] {
+  background-color: #500000;
+  color: #fff;
+}
+
+.outreach-pro-maroon .button:hover,
+.outreach-pro-maroon .site-header,
+.outreach-pro-maroon button:hover,
+.outreach-pro-maroon input:hover[type="button"],
+.outreach-pro-maroon input:hover[type="reset"],
+.outreach-pro-maroon input:hover[type="submit"] {
+  background-color: #360000;
+  color: #fff;
+}
+
+.outreach-pro-maroon .sub-footer {
+  background-color: #ececec;
+}
+
+.outreach-pro-maroon .enews-widget input:hover[type="submit"] {
+  background-color: #eee;
+  color: #333;
+}
+
+.outreach-pro-maroon .sidebar {
+  color: #000;
+}
+
+.outreach-pro-maroon .sidebar .widget {
+  background-color: #DDD;
+}
+
+/* Outreach Pro AgriLife Extension Unit
+--------------------------------------------- */
+
+.outreach-pro-extensionunit .site-header,
+.outreach-pro-extensionunit .site-footer{
+  background-color: #500000;
+}
+
+.outreach-pro-extensionunit .site-header:after {
+  content: "";
+  display: block;
+  height: 16px;
+  background: #015581 url(http://agrilife.staging.wpengine.com/vgyoung/wp-content/themes/outreach-pro/images/vertical-texture.png) repeat-x top center;
+  border-top: 3px solid #fff;
+}
+
+.outreach-pro-extensionunit .site-header .search-form {
+  width: 40%;
+}
+.outreach-pro-extensionunit .site-header .search-form input {
+  border-radius: 10px;
+  background: #fff url(http://agrilife.staging.wpengine.com/vgyoung/wp-content/themes/outreach-pro/images/search.png) no-repeat 10px center;
+  text-indent: 32px;
+}
+
+/* Dark Background */
+.outreach-pro-extensionunit .content #genesis-responsive-slider a,
+.outreach-pro-extensionunit .content #genesis-responsive-slider h2 a:hover,
+.outreach-pro-extensionunit .nav-secondary .genesis-nav-menu .current-menu-item > a,
+.outreach-pro-extensionunit .nav-secondary .genesis-nav-menu .sub-menu a:hover,
+.outreach-pro-extensionunit .nav-secondary .genesis-nav-menu a:hover,
+.outreach-pro-extensionunit .nav-secondary .genesis-nav-menu li:hover > a,
+.outreach-pro-extensionunit .widget-title,
+.outreach-pro-extensionunit a {
+  color: #3bb9fd;
+}
+
+/* Light Background */
+.outreach-pro-extensionunit .home-bottom a,
+.outreach-pro-extensionunit .content .entry-title a:hover,
+.outreach-pro-extensionunit .content a {
+  color: #015581;
+}
+
+.outreach-pro-extensionunit a:hover {
+  color: #028fda;
+}
+
+.outreach-pro-extensionunit .content #genesis-responsive-slider a:hover,
+.outreach-pro-extensionunit .content #genesis-responsive-slider h2 a,
+.outreach-pro-extensionunit .footer-widgets .widget-title,
+.outreach-pro-extensionunit .genesis-nav-menu a,
+.outreach-pro-extensionunit .nav-secondary .genesis-nav-menu .sub-menu a,
+.outreach-pro-extensionunit .nav-secondary .genesis-nav-menu .sub-menu,
+.outreach-pro-extensionunit .site-header .widget-title,
+.outreach-pro-extensionunit .site-title a,
+.outreach-pro-extensionunit .site-title a:hover {
+  color: #fff;
+}
+
+.outreach-pro-extensionunit .site-footer a {
+  color: #bbb;
+}
+.outreach-pro-extensionunit .site-footer a:hover {
+  color: #fff;
+}
+
+.outreach-pro-extensionunit .genesis-nav-menu .sub-menu a,
+.outreach-pro-extensionunit .home-bottom .widget-title {
+  color: #333;
+}
+
+.outreach-pro-extensionunit .genesis-nav-menu a:hover,
+.outreach-pro-extensionunit .genesis-nav-menu .current-menu-item > a,
+.outreach-pro-extensionunit .genesis-nav-menu .sub-menu .current-menu-item > a:hover {
+  color: #000;
+}
+
+.outreach-pro-maroon .site-header {
+  background-color: #500000;
+}
+
+.outreach-pro-maroon .nav-primary {
+  background-color: #56565a;
+}
+
+.outreach-pro-maroon .archive-pagination .active a,
+.outreach-pro-maroon .archive-pagination li a:hover,
+.outreach-pro-maroon .button,
+.outreach-pro-maroon button,
+.outreach-pro-maroon input[type="button"],
+.outreach-pro-maroon input[type="reset"],
+.outreach-pro-maroon input[type="submit"] {
+  background-color: #500000;
+  color: #fff;
+}
+
+.outreach-pro-maroon .button:hover,
+.outreach-pro-maroon button:hover,
+.outreach-pro-maroon input:hover[type="button"],
+.outreach-pro-maroon input:hover[type="reset"],
+.outreach-pro-maroon input:hover[type="submit"] {
+  background-color: #360000;
+  color: #fff;
+}
+
+.outreach-pro-extensionunit .sub-footer {
+  background-color: #ececec;
+}
+
+.outreach-pro-extensionunit .enews-widget input:hover[type="submit"] {
+  background-color: #eee;
+  color: #333;
+}
+
+.outreach-pro-extensionunit h1:after,
+.outreach-pro-extensionunit h2:after,
+.outreach-pro-extensionunit h3:after,
+.outreach-pro-extensionunit h4:after {
+  content: "";
+  display: block;
+  background: #015581;
+}
+
+.outreach-pro-extensionunit h1:after {
+  background: -moz-linear-gradient(left, rgba(1,85,129,1) 0%, rgba(1,85,129,1) 50%, rgba(1,85,129,0) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, rgba(1,85,129,1) 0%,rgba(1,85,129,1) 50%,rgba(1,85,129,0) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, rgba(1,85,129,1) 0%,rgba(1,85,129,1) 50%,rgba(1,85,129,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.outreach-pro-extensionunit h1:after,
+.outreach-pro-extensionunit h2:after {
+  height: 6px;
+}
+
+.outreach-pro-extensionunit h3:after {
+  height: 4px;
+}
+
+.outreach-pro-extensionunit h4:after {
+  height: 2px;
+}
